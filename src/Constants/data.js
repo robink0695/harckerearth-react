@@ -48,14 +48,6 @@ const DATA = [
     img_url: "https://place-hold.it/40.jpg",
   },
   {
-    id: 90122,
-    name: "tem3",
-    price: 320,
-    discount: 5,
-    type: "literature",
-    img_url: "https://place-hold.it/40.jpg",
-  },
-  {
     id: 9096,
     name: "Item7",
     price: 700,
@@ -69,14 +61,6 @@ const DATA = [
     price: 350,
     discount: 18,
     type: "fiction",
-    img_url: "https://place-hold.it/40.jpg",
-  },
-  {
-    id: 905492,
-    name: "tem3",
-    price: 320,
-    discount: 5,
-    type: "literature",
     img_url: "https://place-hold.it/40.jpg",
   },
 ];
